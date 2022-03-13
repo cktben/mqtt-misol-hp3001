@@ -10,6 +10,7 @@ Prerequisites:
 * pyhidapi
 
 Installation:
+
     pip install hid paho-mqtt
     sudo cp hp3001.rules /etc/udev/rules.d/
 
