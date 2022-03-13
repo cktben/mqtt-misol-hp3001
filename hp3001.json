@@ -1,0 +1,4 @@
+{
+	"mqtt_topic_root": "hp3001",
+	"period": 30
+}
